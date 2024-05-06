@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "private": true,
-  "homepage": "https://hamitg.github.io/hamitg.github.io",
+  "homepage": "https://hamitg.github.io/cb-fe",
   "version": "0.0.0",
   "type": "module",
   "babel": {
